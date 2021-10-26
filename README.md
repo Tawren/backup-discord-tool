@@ -1,9 +1,15 @@
-# backup-discord-tool
+<h1> ATTENTION </h1>
 
-INSTRUCUTIONS :
+<h3> THIS PROGRAM WAS MADE FOR AN EDUCATIONAL PURPOSE ONLY </h3>
 
-Lancer "install", attendre la fin de l'installation.
+Using this program on a machine that does not belong to you or for malicious purposes is completely ILLEGAL
+So I am in no way responsible you are the only ones responsible for your actions
 
-Ouvrir "settings" ey y mettre son token, l'ID du serveur à copier, le serveur ou vous voulez que la backup se cale, et le role admin sur le serveur que ou vous voulez mettre backup (role admin a creer avant la mise en place de la backup)
+This program is detected by Discord as a selfbot, so if you get banned I'm in no way responsible for what you do, and if you get banned.
 
-Lancer "start" et attendre.
+<b> Installation </b>
+
+* Install nodejs
+https://nodejs.org/en/
+ 
+After that open the settings.json file and put your token, the id of the server to be copied, the id where the server will be copied and then create a role on your server with admin permission and also put the id
